@@ -33,7 +33,7 @@ To use data from ```Data\Participant List.csv``` put N (No) as a prompt when the
 - Now open outlook and login.
 - Click on outbox and see the mails being sent one by one.
 
-### There are 2 email templates:
+### This is the email templates:
 - MLSA Email Template  
 ![image](https://github.com/rv2442/MLSA-Certificate-Generator_Email-Sender/assets/69571769/3478c021-c31d-4f67-a031-f2e5d40ddb00)
 
