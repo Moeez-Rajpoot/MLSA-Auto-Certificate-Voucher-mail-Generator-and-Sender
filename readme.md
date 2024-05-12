@@ -7,7 +7,7 @@ This repo simply use a template certificate docx file and generates certificates
 ## Run these commands in your terminal
 
 ```
-git clone https://github.com/rv2442/MLSA-Certificate-Generator_Email-Sender.git
+git clone https://github.com/Moeez-Rajpoot/MLSA-Certificate-Generator_Email-Sender.git
 cd Certificate-Generator-MLSA
 ```
 Now Copy your Participant List to the Data Folder and rename it as `Participant List.csv`. <br>
